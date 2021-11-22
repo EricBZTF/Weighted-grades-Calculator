@@ -1,0 +1,11 @@
+C:\Users\ericf\source\repos\GradeCalc2\bin\Debug\GradeCalc2.exe.config
+C:\Users\ericf\source\repos\GradeCalc2\bin\Debug\GradeCalc2.exe
+C:\Users\ericf\source\repos\GradeCalc2\bin\Debug\GradeCalc2.pdb
+C:\Users\ericf\source\repos\GradeCalc2\obj\Debug\GradeCalc2.csprojAssemblyReference.cache
+C:\Users\ericf\source\repos\GradeCalc2\obj\Debug\GradeCalc2.Form1.resources
+C:\Users\ericf\source\repos\GradeCalc2\obj\Debug\GradeCalc2.Properties.Resources.resources
+C:\Users\ericf\source\repos\GradeCalc2\obj\Debug\GradeCalc2.csproj.GenerateResource.cache
+C:\Users\ericf\source\repos\GradeCalc2\obj\Debug\GradeCalc2.csproj.CoreCompileInputs.cache
+C:\Users\ericf\source\repos\GradeCalc2\obj\Debug\GradeCalc2.exe
+C:\Users\ericf\source\repos\GradeCalc2\obj\Debug\GradeCalc2.pdb
+C:\Users\ericf\source\repos\GradeCalc2\obj\Debug\GradeCalc2.Form2.resources
